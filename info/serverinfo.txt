@@ -1,0 +1,7 @@
+Monday:			kyalami
+Tuesday:		zolder
+Wednesday:	imola
+Thursday:		donington
+Friday:			barcelona
+Saturday:		nurburgring
+Sunday:			spa

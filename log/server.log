@@ -1,0 +1,31 @@
+0: Server starting with version 255
+0: Starting server Fahrschule for Beginners // FRI: Barcelona, SAT: Nurgburgring
+0: ==ERR: preRaceWaitingTimeSeconds (60) has been set to 80s, 307629824 seconds are too low for public Multiplayer
+0: Joining during race is allowed
+0: FileToStruct cfg/eventRules.json
+0: maxCarSlots 16 exceeds the allowed slots by Rating requirement (12). Add Track Medal and Safety Rating Requirements to gain up to 30 slots (3 TM + 70 SA)
+0: Translated realtime interval hzToMiliseconds(18)=54
+
+0: SessionManager::randomizeGreenFlagTriggers: s:0.890000 e:0.950000 r:0.921546
+0: Track barcelona was set and updated
+0: Event changed
+0: ==ERR: Ignoring special event rules for public Multiplayer
+0: ==ERR: Ignoring special assist rules for public Multiplayer
+0: SessionManager::randomizeGreenFlagTriggers: s:0.890000 e:0.950000 r:0.917399
+0: Significant change detected, updating lobby (1|1)
+0: maxCarSlots 16 exceeds the allowed slots by Rating requirement (12). Add Track Medal and Safety Rating Requirements to gain up to 30 slots (3 TM + 70 SA)
+0: Resetting weekend to friday night
+0: Reset time to friday night: 0 -> 0
+0: Reset time to first session: 0 -> 129600
+0: SessionManager::randomizeGreenFlagTriggers: s:0.890000 e:0.950000 r:0.943847
+0: Listening to TCP 9232 | UDP 9231
+257: Trying to connect to lobby (0 times, interval 10000 s)
+257: Session changed: Qualifying -> Qualifying 0
+257: Detected sessionPhase <waiting for drivers> -> <waiting for drivers> (Qualifying)
+27159: ==ERR: RegisterToLobby TCP connection failed, couldn't connect to the lobby server
+27170: Trying to connect to lobby (1 times, interval 13000 s)
+28194: RegisterToLobby succeeded
+28209: Sent lobby registration request for barcelona
+28240: TCPQueue now: 4
+28240: New TCP incoming pakSizeMax, 0 => 2
+28240: Updated lobby with 0 drivers
