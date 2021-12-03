@@ -5,3 +5,30 @@ Thursday:		brands_hatch
 Friday:			barcelona
 Saturday:		nurburgring
 Sunday:			spa
+
+sudo apt update && sudo apt install wine-development
+
+git clone https://github.com/RRothfeld/rasernserver.git
+
+ALLOW:  tcp:9232 udp:9231 
+
+cd rasernserver && wine accServer.exe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAYBE: sudo dpkg --add-architecture i386 && sudo apt-get update && sudo apt-get install wine32
