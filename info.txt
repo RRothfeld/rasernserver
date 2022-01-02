@@ -6,9 +6,7 @@ Allow ingress and egress for TCP:9700 and UDP:9701
 ====================================================================
 First time VM setup
 ====================================================================
-sudo dpkg --add-architecture i386 && sudo apt update && sudo apt install -y wine32-development && sudo apt autoremove -y
-
-git clone https://github.com/RRothfeld/rasernserver.git
+sudo apt update && sudo apt install -y wine-development && sudo dpkg --add-architecture i386 && sudo apt update && sudo apt install -y wine32-development && sudo apt autoremove -y && git clone https://github.com/RRothfeld/rasernserver.git
 
 ====================================================================
 Everytime VM start
