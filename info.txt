@@ -1,0 +1,7 @@
+sudo dpkg --add-architecture i386 && sudo apt update && sudo apt install -y wine32-development && sudo apt autoremove -y
+
+git clone https://github.com/RRothfeld/rasernserver.git
+
+ALLOW: tcp:9700 udp:9701
+
+wine start /d ./rasernserver/ ./rasernserver/accServer.exe
