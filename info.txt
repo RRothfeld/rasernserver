@@ -1,7 +1,7 @@
 ====================================================================
 Server settings
 ====================================================================
-Allow ingress and egress for TCP:9601 and UDP:9600
+Set network tag: acc (allows ingress and egress for TCP:9601 and UDP:9600)
 
 ====================================================================
 First time VM setup
