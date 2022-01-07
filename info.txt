@@ -1,6 +1,7 @@
 ====================================================================
 Server settings
 ====================================================================
+2 High-end vCPUs, 2 Gb RAM, 10 GB HDD with Ubuntu Minimal
 Set network tag: acc (allows ingress and egress for TCP:9601 and UDP:9600)
 
 ====================================================================
