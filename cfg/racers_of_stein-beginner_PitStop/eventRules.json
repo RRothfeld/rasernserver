@@ -1,6 +1,7 @@
 {
 	"qualifyStandingType": 1,
 	"pitWindowLengthSec": 360,
+	"driverStintTimeSec": -1,
 	"mandatoryPitstopCount": 1,
 	"maxDriversCount": 2,
 	"maxTotalDrivingTime": -1,
