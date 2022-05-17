@@ -4,7 +4,10 @@
 			"drivers": [
 				{
 					"playerID": "S76561197981265815",
-					"driverCategory": 1
+					"driverCategory": 1,
+					"firstName": "Karten",
+					"lastName": "Roth",
+					"shortName": "KAR"
 				}
 			],
 			"raceNumber": -1,
