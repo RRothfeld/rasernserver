@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+			"drivers": [
+				{
+					"playerID": "S76561197981265815"
+				}
+			],
+			"raceNumber": -1,
+			"forcedCarModel": -1,
+			"overrideDriverInfo": 0,
+			"isServerAdmin": 1,
+			"ballastKg": 0,
+			"restrictor": 0
+		},
+		{
+			"drivers": [
+				{
+					"playerID": "S76561198070855031"
+				}
+			],
+			"raceNumber": -1,
+			"forcedCarModel": -1,
+			"overrideDriverInfo": 0,
+			"isServerAdmin": 1,
+			"ballastKg": 0,
+			"restrictor": 0
+		},
+		{
+			"drivers": [
+				{
+					"playerID": "S76561197988637983"
+				}
+			],
+			"raceNumber": -1,
+			"forcedCarModel": -1,
+			"overrideDriverInfo": 0,
+			"isServerAdmin": 1,
+			"ballastKg": 0,
+			"restrictor": 0
+		}
+	],
+	"forceEntryList": 0
+}
