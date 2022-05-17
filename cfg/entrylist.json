@@ -3,39 +3,54 @@
 		{
 			"drivers": [
 				{
-					"playerID": "S76561197981265815"
+					"playerID": "S76561197981265815",
+					"driverCategory": 1,
+					"firstName": "Karten",
+					"lastName": "Roth",
+					"shortName": "KAR"
 				}
 			],
 			"raceNumber": -1,
 			"forcedCarModel": -1,
 			"overrideDriverInfo": 0,
 			"isServerAdmin": 1,
+			"overrideDriverInfo": 1,
 			"ballastKg": 0,
 			"restrictor": 0
 		},
 		{
 			"drivers": [
 				{
-					"playerID": "S76561198070855031"
+					"playerID": "S76561198070855031",
+					"driverCategory": 0,
+					"firstName": "Martin",
+					"lastName": "Gerer",
+					"shortName": "GER"
 				}
 			],
 			"raceNumber": -1,
 			"forcedCarModel": -1,
 			"overrideDriverInfo": 0,
 			"isServerAdmin": 1,
+			"overrideDriverInfo": 0,
 			"ballastKg": 0,
 			"restrictor": 0
 		},
 		{
 			"drivers": [
 				{
-					"playerID": "S76561197988637983"
+					"playerID": "S76561197988637983",
+					"driverCategory": 0,
+					"firstName": "Simon",
+					"lastName": "Roth",
+					"shortName": "SIM"
 				}
 			],
 			"raceNumber": -1,
 			"forcedCarModel": -1,
 			"overrideDriverInfo": 0,
 			"isServerAdmin": 1,
+			"overrideDriverInfo": 0,
 			"ballastKg": 0,
 			"restrictor": 0
 		}
