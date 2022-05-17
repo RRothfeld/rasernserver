@@ -4,15 +4,12 @@
 			"drivers": [
 				{
 					"playerID": "S76561197981265815",
-					"driverCategory": 1,
-					"firstName": "Karten",
-					"lastName": "Roth",
-					"shortName": "KAR"
+					"driverCategory": 1
 				}
 			],
 			"raceNumber": -1,
 			"forcedCarModel": -1,
-			"overrideDriverInfo": 0,
+			"overrideDriverInfo": 1,
 			"isServerAdmin": 1,
 			"overrideDriverInfo": 1,
 			"ballastKg": 20,
