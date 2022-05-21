@@ -2,6 +2,7 @@
 	"serverName": "Racers of Stein // Fahrschule // All cars // Zolder",
 	"adminPassword": "100P",
 	"spectatorPassword": "1a",
+	"password": "000",
 	"carGroup": "FreeForAll",
 	"trackMedalsRequirement": 2,
 	"safetyRatingRequirement": 40,
