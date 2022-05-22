@@ -4,7 +4,7 @@
 	"spectatorPassword": "1a",
 	"carGroup": "FreeForAll",
 	"trackMedalsRequirement": 2,
-	"safetyRatingRequirement": 60,
+	"safetyRatingRequirement": 40,
 	"racecraftRatingRequirement": -1,
 	"maxCarSlots": 16,
 	"dumpLeaderboards": 1,
