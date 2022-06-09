@@ -28,7 +28,7 @@
             "dayOfWeekend": 2,
             "timeMultiplier": 2,
             "sessionType": "R",
-            "sessionDurationMinutes": 10
+            "sessionDurationMinutes": 15
         },
         {
             "hourOfDay": 17,
@@ -42,7 +42,7 @@
             "dayOfWeekend": 2,
             "timeMultiplier": 2,
             "sessionType": "R",
-            "sessionDurationMinutes": 10
+            "sessionDurationMinutes": 15
         }
     ],    
     "configVersion": 1
