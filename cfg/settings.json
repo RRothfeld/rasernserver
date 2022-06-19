@@ -1,10 +1,10 @@
 {
-	"serverName": "Racers of Stein // Fahrschule // All cars // Spa",
+	"serverName": "Racers of Stein // Fahrschule // All cars // Brands Hatch",
 	"adminPassword": "100P",
 	"spectatorPassword": "1a",
 	"carGroup": "FreeForAll",
-	"trackMedalsRequirement": 2,
-	"safetyRatingRequirement": 40,
+	"trackMedalsRequirement": 1,
+	"safetyRatingRequirement": 20,
 	"racecraftRatingRequirement": -1,
 	"maxCarSlots": 16,
 	"dumpLeaderboards": 1,
