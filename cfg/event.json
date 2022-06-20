@@ -1,9 +1,9 @@
 {
-    "track": "brands_hatch",
-    "preRaceWaitingTimeSeconds": 90,
+    "track": "misano",
+    "preRaceWaitingTimeSeconds": 65,
     "postQualySeconds": 30,
     "postRaceSeconds": 30,
-    "sessionOverTimeSeconds": 120,
+    "sessionOverTimeSeconds": 90,
     "ambientTemp": 20,
     "cloudLevel": 0.3,
     "rain": 0.1,
