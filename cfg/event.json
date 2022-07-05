@@ -1,5 +1,5 @@
 {
-    "track": "misano",
+    "track": "laguna_seca",
     "preRaceWaitingTimeSeconds": 65,
     "postQualySeconds": 30,
     "postRaceSeconds": 30,
@@ -10,7 +10,28 @@
     "weatherRandomness": 2,
     "sessions": [
         {
-            "hourOfDay": 14,
+            "hourOfDay": 9,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 2,
+            "sessionType": "P",
+            "sessionDurationMinutes": 60
+        },
+        {
+            "hourOfDay": 12,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 2,
+            "sessionType": "Q",
+            "sessionDurationMinutes": 10
+        },
+        {
+            "hourOfDay": 15,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 2,
+            "sessionType": "R",
+            "sessionDurationMinutes": 10
+        },
+        {
+            "hourOfDay": 12,
             "dayOfWeekend": 2,
             "timeMultiplier": 2,
             "sessionType": "Q",
