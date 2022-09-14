@@ -10,13 +10,6 @@
     "weatherRandomness": 2,
     "sessions": [
         {
-            "hourOfDay": 9,
-            "dayOfWeekend": 1,
-            "timeMultiplier": 2,
-            "sessionType": "P",
-            "sessionDurationMinutes": 5
-        },
-        {
             "hourOfDay": 12,
             "dayOfWeekend": 1,
             "timeMultiplier": 2,
