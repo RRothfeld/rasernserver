@@ -13,6 +13,13 @@
             "hourOfDay": 12,
             "dayOfWeekend": 1,
             "timeMultiplier": 2,
+            "sessionType": "R",
+            "sessionDurationMinutes": 600
+        },
+        {
+            "hourOfDay": 12,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 2,
             "sessionType": "Q",
             "sessionDurationMinutes": 10
         },
