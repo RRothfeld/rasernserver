@@ -13,7 +13,7 @@
             "hourOfDay": 12,
             "dayOfWeekend": 1,
             "timeMultiplier": 2,
-            "sessionType": "R",
+            "sessionType": "P",
             "sessionDurationMinutes": 600
         },
         {
