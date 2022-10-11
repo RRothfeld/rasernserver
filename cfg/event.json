@@ -1,5 +1,5 @@
 {
-    "track": "kyalami",
+    "track": "suzuka",
     "preRaceWaitingTimeSeconds": 65,
     "postQualySeconds": 30,
     "postRaceSeconds": 30,
@@ -10,25 +10,25 @@
     "weatherRandomness": 2,
     "sessions": [
         {
-            "hourOfDay": 12,
+            "hourOfDay": 10,
             "dayOfWeekend": 1,
-            "timeMultiplier": 2,
+            "timeMultiplier": 1,
             "sessionType": "P",
-            "sessionDurationMinutes": 600
+            "sessionDurationMinutes": 40
         },
         {
-            "hourOfDay": 12,
+            "hourOfDay": 14,
             "dayOfWeekend": 1,
-            "timeMultiplier": 2,
+            "timeMultiplier": 1,
             "sessionType": "Q",
             "sessionDurationMinutes": 10
         },
         {
-            "hourOfDay": 15,
+            "hourOfDay": 16,
             "dayOfWeekend": 1,
-            "timeMultiplier": 2,
+            "timeMultiplier": 1,
             "sessionType": "R",
-            "sessionDurationMinutes": 20
+            "sessionDurationMinutes": 10
         }
     ],    
     "configVersion": 1
