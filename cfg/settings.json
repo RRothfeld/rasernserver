@@ -1,10 +1,10 @@
 {
-	"serverName": "Racers of Stein // All cars // Training // Imola",
+	"serverName": "Racers of Stein // All cars // Training // Zandvoort",
 	"adminPassword": "100P",
 	"spectatorPassword": "1a",
 	"carGroup": "FreeForAll",
-	"trackMedalsRequirement": 1,
-	"safetyRatingRequirement": 20,
+	"trackMedalsRequirement": 3,
+	"safetyRatingRequirement": 40,
 	"racecraftRatingRequirement": -1,
 	"maxCarSlots": 16,
 	"dumpLeaderboards": 1,

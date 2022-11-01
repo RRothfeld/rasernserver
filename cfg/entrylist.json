@@ -5,9 +5,9 @@
 				{
 					"playerID": "S76561197981265815",
 					"driverCategory": 1,
-					"firstName": "Karten",
-					"lastName": "Roth",
-					"shortName": "KAR"
+					"firstName": "Raoul",
+					"lastName": "R",
+					"shortName": "RAO"
 				}
 			],
 			"raceNumber": -1,
@@ -15,8 +15,8 @@
 			"overrideDriverInfo": 1,
 			"isServerAdmin": 1,
 			"overrideDriverInfo": 1,
-			"ballastKg": 0,
-			"restrictor": 0
+			"ballastKg": 100,
+			"restrictor": 20
 		},
 		{
 			"drivers": [
@@ -24,8 +24,8 @@
 					"playerID": "S76561198070855031",
 					"driverCategory": 0,
 					"firstName": "Martin",
-					"lastName": "Gerer",
-					"shortName": "GER"
+					"lastName": "G",
+					"shortName": "MAR"
 				}
 			],
 			"raceNumber": -1,
@@ -42,7 +42,7 @@
 					"playerID": "S76561197988637983",
 					"driverCategory": 0,
 					"firstName": "Simon",
-					"lastName": "Roth",
+					"lastName": "R",
 					"shortName": "SIM"
 				}
 			],
