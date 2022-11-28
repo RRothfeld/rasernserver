@@ -5,8 +5,8 @@
 				{
 					"playerID": "S76561197981265815",
 					"driverCategory": 1,
-					"firstName": "Raoul",
-					"lastName": "R",
+					"firstName": "R",
+					"lastName": "Redfld",
 					"shortName": "RAO"
 				}
 			],
@@ -14,7 +14,7 @@
 			"forcedCarModel": -1,
 			"overrideDriverInfo": 1,
 			"isServerAdmin": 1,
-			"overrideDriverInfo": 1,
+			"overrideDriverInfo": 0,
 			"ballastKg": 100,
 			"restrictor": 20
 		},
