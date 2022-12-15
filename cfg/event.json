@@ -1,5 +1,5 @@
 {
-    "track": "nurburgring",
+    "track": "misano",
     "preRaceWaitingTimeSeconds": 65,
     "postQualySeconds": 30,
     "postRaceSeconds": 30,
@@ -10,25 +10,25 @@
     "weatherRandomness": 2,
     "sessions": [
         {
-            "hourOfDay": 18,
+            "hourOfDay": 9,
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
             "sessionType": "P",
-            "sessionDurationMinutes": 45
+            "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 20,
+            "hourOfDay": 12,
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
             "sessionType": "Q",
-            "sessionDurationMinutes": 5
+            "sessionDurationMinutes": 10
         },
         {
-            "hourOfDay": 22,
+            "hourOfDay": 15,
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
             "sessionType": "R",
-            "sessionDurationMinutes": 10
+            "sessionDurationMinutes": 20
         }
     ],    
     "configVersion": 1
