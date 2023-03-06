@@ -15,8 +15,7 @@
 			"overrideDriverInfo": 1,
 			"isServerAdmin": 1,
 			"overrideDriverInfo": 0,
-			"ballastKg": 100,
-			"restrictor": 20
+			"ballastKg": 100
 		},
 		{
 			"drivers": [
