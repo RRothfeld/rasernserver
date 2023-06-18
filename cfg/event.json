@@ -1,5 +1,5 @@
 {
-    "track": "zandvoort",
+    "track": "cota",
     "preRaceWaitingTimeSeconds": 65,
     "postQualySeconds": 30,
     "postRaceSeconds": 30,
@@ -13,10 +13,30 @@
             "hourOfDay": 12,
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
+            "sessionType": "P",
+            "sessionDurationMinutes": 30
+        },
+        {
+            "hourOfDay": 12,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 1,
             "sessionType": "Q",
             "sessionDurationMinutes": 15
         },
         {
+            "hourOfDay": 12,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 1,
+            "sessionType": "Q",
+            "sessionDurationMinutes": 15
+        },
+        {{
+            "hourOfDay": 12,
+            "dayOfWeekend": 1,
+            "timeMultiplier": 1,
+            "sessionType": "Q",
+            "sessionDurationMinutes": 15
+        },
             "hourOfDay": 15,
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
